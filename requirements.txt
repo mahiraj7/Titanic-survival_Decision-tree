@@ -5,3 +5,5 @@ matplotlib
 seaborn
 streamlit
 joblib
+streamlit==1.28.0
+altair==4.2.2
